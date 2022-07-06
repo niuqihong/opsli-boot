@@ -35,13 +35,13 @@ spring:
         master:
           url: jdbc:mysql://127.0.0.1:3306/opsli-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&rewriteBatchedStatements=true&serverTimezone=Asia/Shanghai
           username: root
-          password: 12345678
+          password: 3783956niU-
           driver-class-name: com.mysql.cj.jdbc.Driver
           # 多数据源配置
           #slave-datasource:
           #url: jdbc:mysql://127.0.0.1:3306/opsli-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&rewriteBatchedStatements=true&serverTimezone=Asia/Shanghai
           #username: root
-          #password: 12345678
+          #password: 3783956niU-
           #driver-class-name: com.mysql.cj.jdbc.Driver
 
 # Redisson 分布式锁
